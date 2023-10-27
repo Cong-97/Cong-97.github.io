@@ -39,6 +39,9 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+	white-space: normal;
+	word-wrap: break-word;
+	word-break: break-all;
 }
 
 #layout-menu a {
