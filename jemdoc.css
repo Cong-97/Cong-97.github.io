@@ -39,6 +39,7 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+	width: 1000px;
 	white-space: normal;
 	word-wrap: break-word;
 	word-break: break-all;
